@@ -53,8 +53,8 @@ I'm a passionate software developer with expertise in multiple programming langu
   <a href="https://drive.google.com/file/d/1lmDaBs5o0OBi6GJb3vUdZQQ_thCg3zeE/view?usp=sharing"><img src="https://img.shields.io/badge/Postman%20API%20Fundamentals-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/></a>
   <a href="https://drive.google.com/file/d/1QXtJZH_xRJa4p5JqrXCq7XU41kRxdlI6/view?usp=sharing"><img src="https://img.shields.io/badge/Cisco%20Network%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Badge"/></a>
   <a href="https://drive.google.com/file/d/1pNNYpnbwaXL6zhaZ6MUVFBv6mC9ZyY3N/view?usp=sharing"><img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/IBM%20Supervised%20Learning%20Regression-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Regression Badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/IBM%20Supervised%20Learning%20Classification-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Classification Badge"/></a>
+  <a href="https://drive.google.com/file/d/1Hd57wu1BQuuDfA6AxyLdzRxG6JFfcI0a/view?usp=sharing"><img src="https://img.shields.io/badge/IBM%20Supervised%20Learning%20Regression-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Regression Badge"/></a>
+  <a href="https://drive.google.com/file/d/13f2TCyHN8Bi14zlJwI7xf6YtJWIOK3mZ/view?usp=sharing"><img src="https://img.shields.io/badge/IBM%20Supervised%20Learning%20Classification-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Classification Badge"/></a>
 </div>
 
 ---
