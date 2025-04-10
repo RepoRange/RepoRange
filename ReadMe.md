@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Prasanna Patil
 
-### Software Developer | Passionate about ML & Web Development | Computer Fundamentals
+###  Passionate about ML & Web Development | Computer Fundamentals
 
 ---
 
