@@ -1,11 +1,5 @@
 # Prasanna Patil 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prasanna%20Patil-0A66C2?style=for-the-badge&logo=linkedin)]([Your LinkedIn Profile URL]) <!-- Add your LinkedIn URL here -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)]([Your Portfolio URL]) <!-- Add your Portfolio URL here if you have one -->
-[![Gmail](https://img.shields.io/badge/Gmail-prasannapatil038@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasannapatil038@gamil.com)
-
----
-
 ## 👨‍💻 About Me
 
 I'm a dedicated and versatile software developer with a strong foundation in **Computer Fundamentals** and a passion for crafting solutions at the intersection of **Machine Learning** and **Web Development**. I thrive on tackling complex problems and continuously learning new technologies to build efficient, scalable, and impactful applications.
