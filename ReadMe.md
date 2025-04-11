@@ -11,13 +11,7 @@ I'm a dedicated and versatile software developer with a strong foundation in **C
 
 ---
 
-## ✨ What I'm Currently Focusing On
 
-*   Deepening my understanding of [mention a specific ML algorithm, e.g., Deep Learning models with TensorFlow].
-*   Exploring advanced features in [mention a web framework, e.g., Next.js or advanced Express patterns].
-*   Contributing to [mention an open-source project or personal project].
-
----
 
 ## 🔧 Technologies & Tools
 
