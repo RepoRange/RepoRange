@@ -83,9 +83,9 @@ I believe in continuous learning and validation of skills:
 
 ## 📫 Get In Touch
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Let's connect!
 
-*   **Email:** [prasannapatil038@gamil.com](mailto:prasannapatil038@gamil.com)
+
+* [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasannapatil038@gamil.com)
 
 ---
 
